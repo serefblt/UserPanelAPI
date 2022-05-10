@@ -1,0 +1,4 @@
+repository "UserPanelAPI@left4soul@cloud"
+  path "/"
+    br "/main"
+    co "/main"
